@@ -1,0 +1,29 @@
+{
+  "name": "PSG",
+  "players": [
+    {
+      "number": "1124574320",
+      "name": "Air Max 95 Ghost",
+      "position": "Disponibles",
+      "photo": "airmax95.jpg"
+    },
+    {
+      "number": "5643170451",
+      "name": "Air Force 1 Shadow Pastel",
+      "position": "Disponibles",
+      "photo": "af1shadow.jpg"
+    },
+    {
+      "number": "3087412834",
+      "name": "Air Max 90 Easter",
+      "position": "Disponibles",
+      "photo": "airmaxeaster.jpg"
+    },
+    {
+      "number": "43280417032",
+      "name": "Air Max 97 Wotherspoon",
+      "position": "Disponibles",
+      "photo": "airmax97.jpg"
+    }
+  ]
+}
